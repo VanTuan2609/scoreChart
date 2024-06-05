@@ -1,0 +1,89 @@
+{
+  "menu": {
+    "chart": "Biểu đồ điểm"
+  },
+
+  "note": "Chú thích",
+
+  "language": {
+    "title": "Ngôn ngữ",
+    "vi": "Tiếng Việt",
+    "en": "Tiếng anh"
+  },
+
+  "chartTab": {
+    "line": "Biểu đồ đường",
+    "bar": "Biểu đồ cột",
+    "pie": "Biều đồ tròn",
+    "polar": "Biểu đồ vùng cực",
+    "radar": "Biểu đồ radar",
+    "bubble": "Biểu đồ bong bóng",
+    "scatter": "Biểu đồ tán xạ",
+    "mixed": "Biểu đồ hỗn hợp",
+    "horizontal": "Biểu đồ cột ngang",
+    "doughnut": "Biểu đồ bánh"
+  },
+
+  "semester": {
+    "semester": "Học kỳ",
+    "Semester 1": "Học kỳ 1",
+    "Semester 2": "Học kỳ 2",
+    "Semester 3": "Học kỳ 3",
+    "Semester 4": "Học kỳ 4",
+    "Semester 5": "Học kỳ 5",
+    "Semester 6": "Học kỳ 6",
+    "Semester 7": "Học kỳ 7",
+    "Semester 8": "Học kỳ 8"
+  },
+
+  "subject": {
+    "Descriptive Geometry - Technical Drawing": "Hình hoạ - Vẽ kỹ thuật",
+    "Physics": "Vật lý",
+    "Marxist-Leninist Philosophy": "Triết học Mác- Lênin",
+    "Linear Algebra": "Đại số tuyến tính",
+    "Calculus 1": "Giải tích 1",
+    "Soft Skills": "Kỹ năng mềm",
+    "Scientific Socialism": "Chủ nghĩa xã hội khoa học",
+    "Probability and Statistics": "Xác suất thống kê",
+    "Calculus 2": "Giải tích 2",
+    "Marxist-Leninist Political Economy": "Kinh tế chính trị Mác- Lênin",
+    "Circuit Theory": "Lý thuyết mạch điện",
+    "Complex Functions": "Hàm phức",
+    "Programming Techniques": "Kỹ thuật lập trình",
+    "General Engineering": "Kỹ thuật đại cương",
+    "Signals and Systems": "Tín hiệu và hệ thống",
+    "Ho Chi Minh Thought": "Tư tưởng Hồ Chí Minh",
+    "Electrical Machines and Instruments": "Máy điện và khí cụ điện",
+    "Electronic Measurement Techniques": "Kỹ thuật đo lường điện tử",
+    "Visual Programming Techniques": "Kỹ thuật lập trình trực quan",
+    "Analog Electronics": "Kỹ thuật điện tử tương tự",
+    "History of the Communist Party of Vietnam": "Lịch sử Đảng Cộng sản Việt Nam",
+    "Digital Electronics": "Kỹ thuật điện tử số",
+    "Measurement and Control Devices": "Thiết bị đo lường và điều khiển",
+    "Electronics Internship": "Thực tập điện tử",
+    "Logic Control - PLC": "Điều khiển Logic- PLC",
+    "Linear Control Systems": "Hệ thống điều khiển tuyến tính",
+    "Microprocessor Engineering": "Kỹ thuật vi xử lý",
+    "Power Electronics": "Điện tử công suất",
+    "Modeling and Simulation": "Mô hình hóa và mô phỏng",
+    "Computer Networks and Communications": "Mạng máy tính và truyền thông",
+    "Embedded Control Systems": "Hệ thống điều khiển nhúng",
+    "Traffic Control Principles": "Thường thức điều khiển giao thông",
+    "Hydraulic and Pneumatic Drives": "Truyền động thủy lực, khí nén",
+    "Electric Drives": "Truyền động điện",
+    "Basic Industry Internship": "Thực tập cơ sở ngành",
+    "Power Supply Systems": "Hệ thống cung cấp điện",
+    "Process Control": "Điều khiển quá trình",
+    "Technical System Maintenance Management": "Quản lý bảo trì hệ thống kỹ thuật",
+    "Technical Internship": "Thực tập kỹ thuật",
+    "Reliability and Safety": "Độ tin cậy và an toàn",
+    "Automated Electric Drives": "Truyền động điện tự động",
+    "Industrial Communication Networks": "Mạng truyền thông công nghiệp",
+    "Electrical Automation Equipment": "Trang bị điện tự động hóa",
+    "Databases in Control Systems": "Cơ sở dữ liệu trong điều khiển",
+    "Intelligent Transportation Systems": "Hệ thống giao thông thông minh",
+    "Industrial Image Processing": "Xử lý ảnh trong công nghiệp",
+    "Multivariable and Nonlinear Control Systems": "Hệ thống điều khiển nhiều chiều và phi tuyến",
+    "Automation Project Design and Implementation": "Thiết kế và thực hiện dự án tự động hóa"
+  }
+}

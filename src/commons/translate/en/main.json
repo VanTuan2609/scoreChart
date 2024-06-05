@@ -1,0 +1,89 @@
+{
+  "menu": {
+    "chart": "Score Chart"
+  },
+
+  "note": "Notes",
+
+  "language": {
+    "title": "Language",
+    "vi": "Vietnamese",
+    "en": "English"
+  },
+
+  "chartTab": {
+    "line": "Line Chart",
+    "bar": "Bar Chart",
+    "pie": "Pie Chart",
+    "polar": "Polar Area Chart",
+    "radar": "Radar Chart",
+    "bubble": "Bubble Chart",
+    "scatter": "Scatter Chart",
+    "mixed": "Mixed Chart",
+    "horizontal": "Horizontal Chart",
+    "doughnut": "Doughnut Chart"
+  },
+
+  "semester": {
+    "semester": "Semester",
+    "Semester 1": "Semester 1",
+    "Semester 2": "Semester 2",
+    "Semester 3": "Semester 3",
+    "Semester 4": "Semester 4",
+    "Semester 5": "Semester 5",
+    "Semester 6": "Semester 6",
+    "Semester 7": "Semester 7",
+    "Semester 8": "Semester 8"
+  },
+
+  "subject": {
+    "Descriptive Geometry - Technical Drawing": "Descriptive Geometry - Technical Drawing",
+    "Physics": "Physics",
+    "Marxist-Leninist Philosophy": "Marxist-Leninist Philosophy",
+    "Linear Algebra": "Linear Algebra",
+    "Calculus 1": "Calculus 1",
+    "Soft Skills": "Soft Skills",
+    "Scientific Socialism": "Scientific Socialism",
+    "Probability and Statistics": "Probability and Statistics",
+    "Calculus 2": "Calculus 2",
+    "Marxist-Leninist Political Economy": "Marxist-Leninist Political Economy",
+    "Circuit Theory": "Circuit Theory",
+    "Complex Functions": "Complex Functions",
+    "Programming Techniques": "Programming Techniques",
+    "General Engineering": "General Engineering",
+    "Signals and Systems": "Signals and Systems",
+    "Ho Chi Minh Thought": "Ho Chi Minh Thought",
+    "Electrical Machines and Instruments": "Electrical Machines and Instruments",
+    "Electronic Measurement Techniques": "Electronic Measurement Techniques",
+    "Visual Programming Techniques": "Visual Programming Techniques",
+    "Analog Electronics": "Analog Electronics",
+    "History of the Communist Party of Vietnam": "History of the Communist Party of Vietnam",
+    "Digital Electronics": "Digital Electronics",
+    "Measurement and Control Devices": "Measurement and Control Devices",
+    "Electronics Internship": "Electronics Internship",
+    "Logic Control - PLC": "Logic Control - PLC",
+    "Linear Control Systems": "Linear Control Systems",
+    "Microprocessor Engineering": "Microprocessor Engineering",
+    "Power Electronics": "Power Electronics",
+    "Modeling and Simulation": "Modeling and Simulation",
+    "Computer Networks and Communications": "Computer Networks and Communications",
+    "Embedded Control Systems": "Embedded Control Systems",
+    "Traffic Control Principles": "Traffic Control Principles",
+    "Hydraulic and Pneumatic Drives": "Hydraulic and Pneumatic Drives",
+    "Electric Drives": "Electric Drives",
+    "Basic Industry Internship": "Basic Industry Internship",
+    "Power Supply Systems": "Power Supply Systems",
+    "Process Control": "Process Control",
+    "Technical System Maintenance Management": "Technical System Maintenance Management",
+    "Technical Internship": "Technical Internship",
+    "Reliability and Safety": "Reliability and Safety",
+    "Automated Electric Drives": "Automated Electric Drives",
+    "Industrial Communication Networks": "Industrial Communication Networks",
+    "Electrical Automation Equipment": "Electrical Automation Equipment",
+    "Databases in Control Systems": "Databases in Control Systems",
+    "Intelligent Transportation Systems": "Intelligent Transportation Systems",
+    "Industrial Image Processing": "Industrial Image Processing",
+    "Multivariable and Nonlinear Control Systems": "Multivariable and Nonlinear Control Systems",
+    "Automation Project Design and Implementation": "Automation Project Design and Implementation"
+  }
+}

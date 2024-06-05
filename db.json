@@ -1,0 +1,306 @@
+{
+  "Semester 1": [
+    {
+      "id": "1",
+      "name": "Descriptive Geometry - Technical Drawing",
+      "score": "8.1",
+      "credit": 2
+    },
+    {
+      "id": "2",
+      "name": "Physics",
+      "score": "9.4",
+      "credit": 4
+    },
+    {
+      "id": "3",
+      "name": "Marxist-Leninist Philosophy",
+      "score": "7.6",
+      "credit": 3
+    },
+    {
+      "id": "4",
+      "name": "Linear Algebra",
+      "score": "9.0",
+      "credit": 3
+    },
+    {
+      "id": "5",
+      "name": "Calculus 1",
+      "score": "6.4",
+      "credit": 3
+    }
+  ],
+  "Semester 2": [
+    {
+      "id": "1",
+      "name": "Soft Skills",
+      "score": "6.8",
+      "credit": 2
+    },
+    {
+      "id": "2",
+      "name": "Scientific Socialism",
+      "score": "9.4",
+      "credit": 2
+    },
+    {
+      "id": "3",
+      "name": "Probability and Statistics",
+      "score": "9.7",
+      "credit": 2
+    },
+    {
+      "id": "4",
+      "name": "Calculus 2",
+      "score": "6.0",
+      "credit": 3
+    },
+    {
+      "id": "5",
+      "name": "Marxist-Leninist Political Economy",
+      "score": "6.2",
+      "credit": 2
+    }
+  ],
+  "Semester 3": [
+    {
+      "id": "1",
+      "name": "Circuit Theory",
+      "score": "9.0",
+      "credit": 4
+    },
+    {
+      "id": "2",
+      "name": "Complex Functions",
+      "score": "9.0",
+      "credit": 2
+    },
+    {
+      "id": "3",
+      "name": "Programming Techniques",
+      "score": "8.5",
+      "credit": 3
+    },
+    {
+      "id": "4",
+      "name": "General Engineering",
+      "score": "8.4",
+      "credit": 2
+    },
+    {
+      "id": "5",
+      "name": "Signals and Systems",
+      "score": "8.1",
+      "credit": 2
+    },
+    {
+      "id": "6",
+      "name": "Ho Chi Minh Thought",
+      "score": "6.6",
+      "credit": 2
+    }
+  ],
+  "Semester 4": [
+    {
+      "id": "1",
+      "name": "Electrical Machines and Instruments",
+      "score": "8.0",
+      "credit": 3
+    },
+    {
+      "id": "2",
+      "name": "Electronic Measurement Techniques",
+      "score": "6.3",
+      "credit": 2
+    },
+    {
+      "id": "3",
+      "name": "Visual Programming Techniques",
+      "score": "8.4",
+      "credit": 3
+    },
+    {
+      "id": "4",
+      "name": "Analog Electronics",
+      "score": "8.4",
+      "credit": 3
+    },
+    {
+      "id": "5",
+      "name": "History of the Communist Party of Vietnam",
+      "score": "8.0",
+      "credit": 2
+    },
+    {
+      "id": "6",
+      "name": "Digital Electronics",
+      "score": "8.8",
+      "credit": 2
+    }
+  ],
+  "Semester 5": [
+    {
+      "id": "1",
+      "name": "Measurement and Control Devices",
+      "score": "9.0",
+      "credit": 3
+    },
+    {
+      "id": "2",
+      "name": "Electronics Internship",
+      "score": "9.0",
+      "credit": 2
+    },
+    {
+      "id": "3",
+      "name": "Logic Control - PLC",
+      "score": "8.2",
+      "credit": 3
+    },
+    {
+      "id": "4",
+      "name": "Linear Control Systems",
+      "score": "9.4",
+      "credit": 3
+    },
+    {
+      "id": "5",
+      "name": "Microprocessor Engineering",
+      "score": "9.7",
+      "credit": 3
+    },
+    {
+      "id": "6",
+      "name": "Power Electronics",
+      "score": "7.3",
+      "credit": 3
+    }
+  ],
+  "Semester 6": [
+    {
+      "id": "1",
+      "name": "Modeling and Simulation",
+      "score": "7.7",
+      "credit": 2
+    },
+    {
+      "id": "2",
+      "name": "Computer Networks and Communications",
+      "score": "8.6",
+      "credit": 3
+    },
+    {
+      "id": "3",
+      "name": "Embedded Control Systems",
+      "score": "8.0",
+      "credit": 3
+    },
+    {
+      "id": "4",
+      "name": "Traffic Control Principles",
+      "score": "8.9",
+      "credit": 3
+    },
+    {
+      "id": "5",
+      "name": "Hydraulic and Pneumatic Drives",
+      "score": "7.6",
+      "credit": 3
+    },
+    {
+      "id": "6",
+      "name": "Electric Drives",
+      "score": "9.4",
+      "credit": 3
+    },
+    {
+      "id": "7",
+      "name": "Basic Industry Internship",
+      "score": "8.7",
+      "credit": 2
+    }
+  ],
+  "Semester 7": [
+    {
+      "id": "1",
+      "name": "Power Supply Systems",
+      "score": "9.0",
+      "credit": 2
+    },
+    {
+      "id": "2",
+      "name": "Process Control",
+      "score": "6.6",
+      "credit": 3
+    },
+    {
+      "id": "3",
+      "name": "Technical System Maintenance Management",
+      "score": "8.9",
+      "credit": 3
+    },
+    {
+      "id": "4",
+      "name": "Technical Internship",
+      "score": "8.3",
+      "credit": 1
+    },
+    {
+      "id": "5",
+      "name": "Reliability and Safety",
+      "score": "9.0",
+      "credit": 2
+    },
+    {
+      "id": "6",
+      "name": "Automated Electric Drives",
+      "score": "9.0",
+      "credit": 2
+    },
+    {
+      "id": "7",
+      "name": "Industrial Communication Networks",
+      "score": "9.9",
+      "credit": 2
+    }
+  ],
+  "Semester 8": [
+    {
+      "id": "1",
+      "name": "Electrical Automation Equipment",
+      "score": "9.2",
+      "credit": 4
+    },
+    {
+      "id": "2",
+      "name": "Databases in Control Systems",
+      "score": "9.7",
+      "credit": 4
+    },
+    {
+      "id": "3",
+      "name": "Intelligent Transportation Systems",
+      "score": "9.7",
+      "credit": 3
+    },
+    {
+      "id": "4",
+      "name": "Industrial Image Processing",
+      "score": "6.5",
+      "credit": 3
+    },
+    {
+      "id": "5",
+      "name": "Multivariable and Nonlinear Control Systems",
+      "score": "8.5",
+      "credit": 3
+    },
+    {
+      "id": "6",
+      "name": "Automation Project Design and Implementation",
+      "score": "8.3",
+      "credit": 2
+    }
+  ]
+}
